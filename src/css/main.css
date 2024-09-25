@@ -94,13 +94,12 @@ h3 {
 }
 
 /* 02. Centrer horizontalement */
-.link-container {
-  margin: auto;
-}
+
 .link-container {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: auto;
 }
 
 .calltoaction {
